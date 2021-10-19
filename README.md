@@ -1,2 +1,2 @@
 
-First run
+Just a demo-repo
